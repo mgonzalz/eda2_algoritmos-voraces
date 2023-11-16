@@ -19,6 +19,8 @@ Devuelve la cantidad máxima de agua que un recipiente puede almacenar.
 **Ejemplo 1:**</br>
 Entrada -> height = [1, 8, 6, 2, 5, 4, 8, 3, 7]</br>
 Salida -> 49</br>
+![Alt text](data/image.png)
+
 **Ejemplo 2:**</br>
 Entrada -> height = [1,1]</br>
 Salida -> 1</br>
