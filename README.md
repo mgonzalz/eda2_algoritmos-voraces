@@ -1,7 +1,7 @@
 # Ejercicios Algoritmos Voraces.
 
 ## Repositorio.
-Link: https://github.com/mgonzalz/eda2_algoritmos_voraces.git
+Link: https://github.com/mgonzalz/eda2_algoritmos-voraces.git
 
 Usuario: @mgonzalz
 
